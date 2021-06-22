@@ -1,0 +1,13 @@
+{
+  "name": "vaccine-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "imap-simple": "^5.1.0"
+  },
+  "scripts": {
+    "install:mac" : "brew install jq terminal-notifier",
+    "start": "./vaccine-bot.sh"
+  }
+}
