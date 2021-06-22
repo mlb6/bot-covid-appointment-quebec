@@ -17,9 +17,9 @@ Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-Yarn
+Node & Yarn
 ```
-brew install yarn
+brew install node yarn
 ```
 
 ### bot
